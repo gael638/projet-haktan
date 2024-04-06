@@ -1,0 +1,12 @@
+.spacer {
+    display: block;
+    height: 50px;
+}
+
+#Submit{
+    display: block;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(225, 99, 118);
+    text-align: center;
+}

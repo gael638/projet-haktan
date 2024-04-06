@@ -1,0 +1,9 @@
+#cont{
+    display: flex;
+    flex-direction: row;
+}
+
+.im-cont{
+    display: block;
+    width: 50vw;
+}
